@@ -1,11 +1,11 @@
 {
-  "name": "Room Booking System",
+  "name": "Booking System",
   "version": "1.2.0",
-  "homepage": "https://github.com/neokoenig/RoomBooking",
+  "homepage": "https://github.com/wikibox11/booking",
   "authors": [
     "Tom King <tom@oxalto.co.uk>"
   ],
-  "description": "Room Booking System",
+  "description": "Booking System",
   "license": "MIT",
   "private": true,
   "ignore": [
